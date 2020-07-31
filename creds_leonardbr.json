@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "amazon-drive-and-sheets",
+  "private_key_id": "a7568d5e4cf5c1ecd997ebc09194bd3dd10c19ca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCoyptumFF0NANJ\nRP72JWfmGc5heRGkuozOIMgyTpNnkLN4ArFodHG5F871hWQeoPVW9VvODbJRegQZ\nshvcM1yoPDOryXempTwZ6X5307LB+YkX9URiYpOxIx9ipTAHOltayj8yJXgOCefQ\nMdcuioM/fHdsInkEaO0bcaGAPtQzklPfYKWmhmIWThh766OKetfYqWiiXyFNMMkm\ntr+KHDL4fVqD3PSqL401nC96HwtYEFIvFYAsioJFNTpTYE+L62qumTBPetCknlgC\n/DPQDFh5UTh/oRNE/GqQvtGbO1YDuX7FX/DsfOdTAijiD8jyXUZ/2kmfe5fV2S8o\noQJRLPMvAgMBAAECgf9jvCDGOI/GkVukAKlRLskTgtbFBebNXhgZTc4OUhtP0mPS\n2xnWr8Q+eAYnUUPokO7NLtgQLTrbC/mkipljLkuAlFY4CUq6+fiaaBkwLBnrcu1b\nkAilCKtvZesUkdwki1bnClXmsfjX7FfJAncBPE6VZ/Y5u75wy48KlzwavlqCg/3+\nz/kaNhQKFlkYGt8NZgGwhy7mWxchT4Q4HSqRvlvtUZAfQMLMqgJ3BDmI5XPTHEsd\n0dsiNQtRzOKeyn5iy8XApfe6UQahi+dK9b5AxMUVN7zZHL6SbOWfCOBwz89dDYLs\nnPIYQcSS5XMmC4711DDwjL4SZYZUtA9faHL2lKkCgYEA2tcYpP5pHdWJ4ByIjbde\n6l4FuAkXXhH/sF/i3iAq623008HXlwAy23QVzCCvIOTLAgQmkVyf9j5NwU5QTuJR\nh4jFpLAe1scJtI/Vrizv8Oy38C75vgPMsr9Lj71mcQ+iPeDLdpxmJ6T/WQWyKoSK\nTiSHBAkuWLcUMuR24lGxNq0CgYEAxXPomyVDjAlteqHdOGvec3qjHYpgtqzOEgNc\n/M1hjHh2b1WRsUqbiV81yseTQHGkHKx9lxz7SFfWULTT5kzuzVjJwHcNE62tO3iv\nNH56sAIu92vCiVmbky8ZDqEYRyc1Bn0Fhd06hWj3YG0vZ7MewgdB+8NPK5yFl9YL\ngzhL+MsCgYAOj+ui5w8FnjULhbqMe5xESjdlNK2qY9Y43ViSYV+ZxPpasPZwpOG9\neq8Mo0wkCzV7D92lJJ28XA7+gwCTDzpPo4lLWTDkJ+B8dGnKqlDZHldrEyUpQMV5\nS4NysC7F7T1lkrTXUrb1gmQ/f0KI08MESif128qKurwMWumSS89YDQKBgQCM3M3a\nsNDpfGhQDl2lvL6sH5dyoZ+xcsJoc2HJMDQhZGcJskAH/TPM4tGbYpmYZfowQpYu\nUgyqZY+NcBOjvsq2UFtOJSB9I2/sd4J2rqyUGFqtRIE6P2UPsY/ssdyCFmRrxpFE\nGLmBJ4sjjYE+N7j/rvHRzFoUwMtFsPvxlx4L1QKBgQCRTbyRkMIDREZ+FJWPG+W7\nx4HjExuLv2900GqBoeX6rwregwk7PDmSTVQpoXvq4j9xOvM5scZE/2QYHHuuRteV\n+VZ2CuvEUBFFWOfueuTMjR/8A5gQDvo0hlxHRngU6wqYM+pK0Agr4vTlIFpIjgnf\nL7IjOmWVJYoIbJjSUgP95w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "leonardbr@amazon-drive-and-sheets.iam.gserviceaccount.com",
+  "client_id": "116175374675292713421",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/leonardbr%40amazon-drive-and-sheets.iam.gserviceaccount.com"
+}
